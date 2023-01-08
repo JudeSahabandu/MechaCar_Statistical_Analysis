@@ -36,7 +36,7 @@ The above demonstrates that this linear model predict mpg of MechaCar prototypes
 
 ## Summary Statistics on Suspension Coils
 
-![total_summary](/Images/total_summarys.png)
+![total_summary](/Images/total_summary.png)
 
 ![lot_summary](/Images/lot_summary.png)
 
@@ -64,7 +64,7 @@ The output of the t-test yielded p-value = 0.1243. This indicates that the null 
 
 2. Determination if PSI across each lot is statistically different from the population mean of 1,500 PSI.
 
-![t_tests_by_lot](/Images/t_tests_by_lot.png)
+![t_tests_by_lots](/Images/t_tests_by_lots.png)
 
 When executing the t-tests by each individual lot using the subset() function, we see the following results;
 
